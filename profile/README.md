@@ -45,4 +45,4 @@ Only download VardynNode from vardynnode.com. The only legitimate sources are va
 
 ---
 
-A product by Vardyn Technologies
+A product by [Vardyn Technologies](https://vardyntech.com)
